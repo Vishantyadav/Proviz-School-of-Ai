@@ -1,0 +1,25 @@
+/* App.css */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f7f7f7;
+}
+
+header {
+  background-color: #2d3e50; /* Dark Blue */
+}
+
+footer {
+  background-color: #2d3e50; /* Dark Blue */
+}
+
+footer p {
+  font-size: 14px;
+}
+
+footer .footer-container {
+  padding: 1rem;
+}
+.home {
+  padding-top: 100px; /* Adjust according to your logo size */
+}
+
